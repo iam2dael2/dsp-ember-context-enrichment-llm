@@ -1,0 +1,16 @@
+faiss-cpu
+gcsfs
+google-api-core
+google-auth
+google-auth-oauthlib
+google-cloud-bigquery
+google-cloud-bigquery-storage
+google-cloud-core
+google-cloud-storage
+langchain-community
+langchain_google_genai
+numpy
+pandas
+pandas-gbq
+python-dotenv
+pyyaml
